@@ -66,7 +66,7 @@ Feel free to reach out for assistance or to share your feedback!
 
 ## Credits
 
-This script is developed by the CodeUnity community. Special thanks to Morrey for his role in the preview video.
+This script is developed by the CodeUnity community.
 
 **Note:** Ensure proper attribution and compliance with any licensing agreements for third-party resources used in the script.
 
